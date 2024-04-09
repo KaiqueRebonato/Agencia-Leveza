@@ -9,7 +9,7 @@ Segundo projeto desenvolvido no modulo 2 do Explorer da Rocketseat. <br/>
 </p>
 
 <p align="center">
-  <img src=".github/preview.jpg" width="100%">
+  <img src=".github/preview.png" width="100%">
 </p>
 
  <h2 align="center"><a href="https://github.com/KaiqueRebonato/challenge01" target="_blank">Projeto ao vivo</a></h2>
