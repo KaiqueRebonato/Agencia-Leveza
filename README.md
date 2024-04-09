@@ -12,7 +12,7 @@ Segundo projeto desenvolvido no modulo 2 do Explorer da Rocketseat. <br/>
   <img src=".github/preview.png" width="100%">
 </p>
 
- <h2 align="center"><a href="https://github.com/KaiqueRebonato/challenge01" target="_blank">Projeto ao vivo</a></h2>
+ <h2 align="center"><a href="https://kaiquerebonato.github.io/Agencia-Leveza/" target="_blank">Projeto ao vivo</a></h2>
 
 ### 🚀 Tecnologias
 
